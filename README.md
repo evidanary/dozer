@@ -1,6 +1,6 @@
 Shell API
 =====
-Basic shell sinatra API with rspec
+Basic framework for sinatra API with rspec
 
 ## Running Tests
 To run tests run `rake spec`
